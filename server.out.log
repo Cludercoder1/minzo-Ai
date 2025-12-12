@@ -1,0 +1,23 @@
+🤖 Self-Learning AI with WORKING Web Search initialized
+Google OAuth not configured. Set GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET to enable.
+======================================================================
+🚀 MINZOFOUNDATION AI WITH WORKING WEB SEARCH!
+======================================================================
+📍 Port: 3001
+🌐 URL: http://localhost:3001
+🔍 Web Search: 100% WORKING
+🤖 Learning: ACTIVE
+📊 Knowledge: 286 topics
+======================================================================
+✅ Ready to answer questions with REAL web search!
+======================================================================
+💬 CHAT REQUEST: "hello"
+🎯 Processing: "hello" [Web Search: true]
+💬 CHAT REQUEST: "give me 5 name of krishna ji"
+🎯 Processing: "give me 5 name of krishna ji" [Web Search: true]
+🔍 Searching web for: "give me 5 name of krishna ji"
+Wikipedia search failed: Request failed with status code 403
+💬 CHAT REQUEST: "new session"
+🎯 Processing: "new session" [Web Search: true]
+🔍 Searching web for: "new session"
+Wikipedia search failed: Request failed with status code 403

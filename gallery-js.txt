@@ -1,0 +1,61 @@
+        // Fullscreen gallery helpers
+        function showFullScreenGallery(results) {
+            try {
+                const backdrop = document.getElementById('fsGalleryBackdrop');
+                const grid = document.getElementById('fsGalleryGrid');
+                const close = document.getElementById('fsGalleryClose');
+
+                if (!backdrop || !grid) return;
+
+                grid.innerHTML = '';
+                (results || []).forEach((result, idx) => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    
+                    const thumb = document.createElement('div');
+                    thumb.className = 'thumb';
+                    thumb.style.backgroundImage = result.image ? 'url(' + result.image + ')' : 'linear-gradient(135deg, rgba(100,200,255,0.2), rgba(100,150,255,0.1))';
+                    
+                    const title = document.createElement('div');
+                    title.className = 'title';
+                    title.textContent = result.title || 'Result';
+                    
+                    const meta = document.createElement('div');
+                    meta.className = 'meta';
+                    meta.textContent = result.source || 'Source';
+                    
+                    const snippet = document.createElement('div');
+                    snippet.className = 'snippet';
+                    snippet.textContent = result.snippet || 'No description.';
+                    
+                    card.appendChild(thumb);
+                    card.appendChild(title);
+                    card.appendChild(meta);
+                    card.appendChild(snippet);
+                    
+                    card.addEventListener('click', () => {
+                        closeFullScreenGallery();
+                        showFullScreenResult(result);
+                    });
+                    
+                    grid.appendChild(card);
+                });
+
+                backdrop.classList.add('open');
+                backdrop.setAttribute('aria-hidden', 'false');
+
+                close.onclick = () => closeFullScreenGallery();
+                backdrop.addEventListener('click', (e) => {
+                    if (e.target === backdrop) closeFullScreenGallery();
+                });
+                document.onkeydown = (e) => { if (e.key === 'Escape') closeFullScreenGallery(); };
+            } catch (e) { console.warn('showFullScreenGallery error', e); }
+        }
+
+        function closeFullScreenGallery() {
+            const backdrop = document.getElementById('fsGalleryBackdrop');
+            if (!backdrop) return;
+            backdrop.classList.remove('open');
+            backdrop.setAttribute('aria-hidden', 'true');
+            document.onkeydown = null;
+        }

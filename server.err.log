@@ -1,0 +1,6 @@
+better-sqlite3 not available. Falling back to JSON file storage. Error: Cannot find module 'better-sqlite3'
+Require stack:
+- c:\Users\Work&Study\Desktop\MinzoAI\backend\server.js
+Could not persist interaction: Cannot read properties of undefined (reading 'interactions')
+Could not persist interaction: Cannot read properties of undefined (reading 'interactions')
+Could not persist interaction: Cannot read properties of undefined (reading 'interactions')

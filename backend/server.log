@@ -1,0 +1,32 @@
+better-sqlite3 not available. Falling back to JSON file storage. Error: Cannot find module 'better-sqlite3'
+Require stack:
+- C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js
+≡ƒñû Self-Learning AI with WORKING Web Search initialized
+Google OAuth not configured. Set GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET to enable.
+======================================================================
+≡ƒÜÇ MINZOFOUNDATION AI WITH WORKING WEB SEARCH!
+======================================================================
+≡ƒôì Port: 3001
+≡ƒîÉ URL: http://localhost:3001
+≡ƒöì Web Search: 100% WORKING
+≡ƒñû Learning: ACTIVE
+≡ƒôè Knowledge: 265 topics
+======================================================================
+Γ£à Ready to answer questions with REAL web search!
+======================================================================
+≡ƒÆ¼ CHAT REQUEST: "BTECH"
+≡ƒÄ» Processing: "BTECH" [Web Search: true]
+≡ƒöì Searching web for: "BTECH"
+Γ¥î Chat error: TypeError: this.userInteractions.interactions.push is not a function
+    at WorkingSelfLearningAI.learnFromInteraction (C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:656:44)
+    at WorkingSelfLearningAI.generateResponse (C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:724:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:917:28
+≡ƒÆ¼ CHAT REQUEST: "BTECH"
+≡ƒÄ» Processing: "BTECH" [Web Search: true]
+≡ƒöì Searching web for: "BTECH"
+Γ¥î Chat error: TypeError: this.userInteractions.interactions.push is not a function
+    at WorkingSelfLearningAI.learnFromInteraction (C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:656:44)
+    at WorkingSelfLearningAI.generateResponse (C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:724:22)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async C:\Users\Work&Study\Desktop\MinzoAI\backend\server.js:917:28

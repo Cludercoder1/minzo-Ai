@@ -1,0 +1,3203 @@
+{
+  "2024": {
+    "response": "I'm learning about \"2024\". Could you tell me more about it?",
+    "confidence": 0.35,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "artificial intelligence": {
+    "response": "Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence. This includes learning, reasoning, problem-solving, perception, and language understanding.",
+    "confidence": 0.95,
+    "interactions": 6,
+    "categories": [
+      "technology",
+      "computer science"
+    ],
+    "synonyms": [
+      "AI",
+      "machine intelligence",
+      "cognitive computing"
+    ]
+  },
+  "machine learning": {
+    "response": "Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It uses algorithms to identify patterns in data and make predictions.",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "technology",
+      "data science"
+    ],
+    "synonyms": [
+      "ML",
+      "predictive analytics",
+      "pattern recognition"
+    ]
+  },
+  "minzofoundation": {
+    "response": "MinzoFoundation is an advanced AI research organization dedicated to creating intelligent systems that learn and adapt through user interactions. Our AI becomes smarter with every conversation.",
+    "confidence": 0.95,
+    "interactions": 1,
+    "categories": [
+      "organization",
+      "ai research"
+    ],
+    "synonyms": [
+      "Minzo",
+      "foundation"
+    ]
+  },
+  "make": {
+    "response": "I'm learning about \"make\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "what": {
+    "response": "I'm learning about \"what\". Could you tell me more about it?",
+    "confidence": 0.44999999999999996,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "artificial": {
+    "response": "I'm learning about \"artificial\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "intelligence": {
+    "response": "I'm learning about \"intelligence\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "chatgpt": {
+    "response": "I'm learning about \"chatgpt\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "when": {
+    "response": "I'm learning about \"when\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "hello": {
+    "response": "I'm learning about \"hello\". Could you tell me more about it? MinzoFoundation is an advanced AI research organization dedicated to creating intelligent systems that learn and adapt through user interactions.",
+    "confidence": 0.55,
+    "interactions": 4,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "reply": {
+    "response": "I'm learning about \"reply\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "minzo": {
+    "response": "I'm learning about \"minzo\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "sure": {
+    "response": "I'm learning about \"sure\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "create": {
+    "response": "I'm learning about \"create\". Could you tell me more about it?",
+    "confidence": 0.44999999999999996,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "detailed": {
+    "response": "I'm learning about \"detailed\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "page": {
+    "response": "I'm learning about \"page\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "document": {
+    "response": "I'm learning about \"document\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "about": {
+    "response": "I'm learning about \"about\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "manufacturing": {
+    "response": "I'm learning about \"manufacturing\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.7,
+    "interactions": 5,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "process": {
+    "response": "I'm learning about \"process\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.6,
+    "interactions": 4,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "here": {
+    "response": "I'm learning about \"here\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "clean": {
+    "response": "I'm learning about \"clean\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "professional": {
+    "response": "I'm learning about \"professional\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "explanation": {
+    "response": "I'm learning about \"explanation\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "training": {
+    "response": "I'm learning about \"training\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "documentation": {
+    "response": "I'm learning about \"documentation\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "study": {
+    "response": "I'm learning about \"study\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "overview": {
+    "response": "I'm learning about \"overview\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "highly": {
+    "response": "I'm learning about \"highly\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "coordinated": {
+    "response": "I'm learning about \"coordinated\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "industrial": {
+    "response": "I'm learning about \"industrial\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "workflow": {
+    "response": "I'm learning about \"workflow\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "that": {
+    "response": "I'm learning about \"that\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "converts": {
+    "response": "I'm learning about \"converts\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "materials": {
+    "response": "I'm learning about \"materials\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "into": {
+    "response": "I'm learning about \"into\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "fully": {
+    "response": "I'm learning about \"fully\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "functional": {
+    "response": "I'm learning about \"functional\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "vehicle": {
+    "response": "I'm learning about \"vehicle\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "through": {
+    "response": "I'm learning about \"through\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "engineering": {
+    "response": "I'm learning about \"engineering\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "design": {
+    "response": "I'm learning about \"design\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "automated": {
+    "response": "I'm learning about \"automated\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "production": {
+    "response": "I'm learning about \"production\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "quality": {
+    "response": "I'm learning about \"quality\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "control": {
+    "response": "I'm learning about \"control\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "testing": {
+    "response": "I'm learning about \"testing\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "lifecycle": {
+    "response": "I'm learning about \"lifecycle\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "begins": {
+    "response": "I'm learning about \"begins\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "concept": {
+    "response": "I'm learning about \"concept\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "development": {
+    "response": "I'm learning about \"development\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "where": {
+    "response": "I'm learning about \"where\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.6,
+    "interactions": 4,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "automotive": {
+    "response": "I'm learning about \"automotive\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "designers": {
+    "response": "I'm learning about \"designers\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "sketch": {
+    "response": "I'm learning about \"sketch\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "exterior": {
+    "response": "I'm learning about \"exterior\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "styling": {
+    "response": "I'm learning about \"styling\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "define": {
+    "response": "I'm learning about \"define\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "aerodynamics": {
+    "response": "I'm learning about \"aerodynamics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "perform": {
+    "response": "I'm learning about \"perform\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "simulations": {
+    "response": "I'm learning about \"simulations\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "using": {
+    "response": "I'm learning about \"using\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "computer": {
+    "response": "I'm learning about \"computer\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "aided": {
+    "response": "I'm learning about \"aided\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "engineers": {
+    "response": "I'm learning about \"engineers\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "evaluate": {
+    "response": "I'm learning about \"evaluate\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "safety": {
+    "response": "I'm learning about \"safety\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "standards": {
+    "response": "I'm learning about \"standards\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "ergonomics": {
+    "response": "I'm learning about \"ergonomics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "crash": {
+    "response": "I'm learning about \"crash\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "performance": {
+    "response": "I'm learning about \"performance\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "structural": {
+    "response": "I'm learning about \"structural\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "integrity": {
+    "response": "I'm learning about \"integrity\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "once": {
+    "response": "I'm learning about \"once\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "approved": {
+    "response": "I'm learning about \"approved\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "prototypes": {
+    "response": "I'm learning about \"prototypes\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "created": {
+    "response": "I'm learning about \"created\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tested": {
+    "response": "I'm learning about \"tested\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "wind": {
+    "response": "I'm learning about \"wind\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tunnels": {
+    "response": "I'm learning about \"tunnels\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "labs": {
+    "response": "I'm learning about \"labs\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "virtual": {
+    "response": "I'm learning about \"virtual\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "environments": {
+    "response": "I'm learning about \"environments\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "ensure": {
+    "response": "I'm learning about \"ensure\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "compliance": {
+    "response": "I'm learning about \"compliance\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "global": {
+    "response": "I'm learning about \"global\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "regulations": {
+    "response": "I'm learning about \"regulations\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "starts": {
+    "response": "I'm learning about \"starts\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "material": {
+    "response": "I'm learning about \"material\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "preparation": {
+    "response": "I'm learning about \"preparation\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "including": {
+    "response": "I'm learning about \"including\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "steel": {
+    "response": "I'm learning about \"steel\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "aluminum": {
+    "response": "I'm learning about \"aluminum\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "plastics": {
+    "response": "I'm learning about \"plastics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "composites": {
+    "response": "I'm learning about \"composites\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "rubber": {
+    "response": "I'm learning about \"rubber\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "electronic": {
+    "response": "I'm learning about \"electronic\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "components": {
+    "response": "I'm learning about \"components\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "first": {
+    "response": "I'm learning about \"first\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "major": {
+    "response": "I'm learning about \"major\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "stage": {
+    "response": "I'm learning about \"stage\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "stamping": {
+    "response": "I'm learning about \"stamping\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "huge": {
+    "response": "I'm learning about \"huge\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "presses": {
+    "response": "I'm learning about \"presses\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "convert": {
+    "response": "I'm learning about \"convert\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "sheets": {
+    "response": "I'm learning about \"sheets\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "body": {
+    "response": "I'm learning about \"body\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.6,
+    "interactions": 4,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "panels": {
+    "response": "I'm learning about \"panels\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "such": {
+    "response": "I'm learning about \"such\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "doors": {
+    "response": "I'm learning about \"doors\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "roofs": {
+    "response": "I'm learning about \"roofs\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "hoods": {
+    "response": "I'm learning about \"hoods\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "fenders": {
+    "response": "I'm learning about \"fenders\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "next": {
+    "response": "I'm learning about \"next\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "these": {
+    "response": "I'm learning about \"these\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "move": {
+    "response": "I'm learning about \"move\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "white": {
+    "response": "I'm learning about \"white\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "assembly": {
+    "response": "I'm learning about \"assembly\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.6,
+    "interactions": 4,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "robotic": {
+    "response": "I'm learning about \"robotic\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "welding": {
+    "response": "I'm learning about \"welding\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "systems": {
+    "response": "I'm learning about \"systems\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "join": {
+    "response": "I'm learning about \"join\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "hundreds": {
+    "response": "I'm learning about \"hundreds\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "parts": {
+    "response": "I'm learning about \"parts\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "form": {
+    "response": "I'm learning about \"form\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "frame": {
+    "response": "I'm learning about \"frame\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "modern": {
+    "response": "I'm learning about \"modern\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "factories": {
+    "response": "I'm learning about \"factories\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "automation": {
+    "response": "I'm learning about \"automation\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "precision": {
+    "response": "I'm learning about \"precision\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "rigidity": {
+    "response": "I'm learning about \"rigidity\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "finished": {
+    "response": "I'm learning about \"finished\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "then": {
+    "response": "I'm learning about \"then\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "enters": {
+    "response": "I'm learning about \"enters\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "painting": {
+    "response": "I'm learning about \"painting\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "beginning": {
+    "response": "I'm learning about \"beginning\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "cleaning": {
+    "response": "I'm learning about \"cleaning\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "corrosion": {
+    "response": "I'm learning about \"corrosion\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "treatment": {
+    "response": "I'm learning about \"treatment\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "electrophoretic": {
+    "response": "I'm learning about \"electrophoretic\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "coating": {
+    "response": "I'm learning about \"coating\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "coat": {
+    "response": "I'm learning about \"coat\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "after": {
+    "response": "I'm learning about \"after\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "baking": {
+    "response": "I'm learning about \"baking\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "primer": {
+    "response": "I'm learning about \"primer\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "basecoat": {
+    "response": "I'm learning about \"basecoat\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "clearcoat": {
+    "response": "I'm learning about \"clearcoat\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "layers": {
+    "response": "I'm learning about \"layers\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "applied": {
+    "response": "I'm learning about \"applied\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "controlled": {
+    "response": "I'm learning about \"controlled\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "achieve": {
+    "response": "I'm learning about \"achieve\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "durability": {
+    "response": "I'm learning about \"durability\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "flawless": {
+    "response": "I'm learning about \"flawless\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "finish": {
+    "response": "I'm learning about \"finish\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "parallel": {
+    "response": "I'm learning about \"parallel\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "creation": {
+    "response": "I'm learning about \"creation\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "specialized": {
+    "response": "I'm learning about \"specialized\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "departments": {
+    "response": "I'm learning about \"departments\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "assemble": {
+    "response": "I'm learning about \"assemble\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "powertrain": {
+    "response": "I'm learning about \"powertrain\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "engine": {
+    "response": "I'm learning about \"engine\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "transmission": {
+    "response": "I'm learning about \"transmission\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "drivetrain": {
+    "response": "I'm learning about \"drivetrain\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "electric": {
+    "response": "I'm learning about \"electric\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "vehicles": {
+    "response": "I'm learning about \"vehicles\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "this": {
+    "response": "I'm learning about \"this\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "includes": {
+    "response": "I'm learning about \"includes\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "motor": {
+    "response": "I'm learning about \"motor\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "high": {
+    "response": "I'm learning about \"high\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.5,
+    "interactions": 3,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "voltage": {
+    "response": "I'm learning about \"voltage\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "battery": {
+    "response": "I'm learning about \"battery\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "pack": {
+    "response": "I'm learning about \"pack\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "integration": {
+    "response": "I'm learning about \"integration\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "final": {
+    "response": "I'm learning about \"final\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "interior": {
+    "response": "I'm learning about \"interior\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "wiring": {
+    "response": "I'm learning about \"wiring\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "harnesses": {
+    "response": "I'm learning about \"harnesses\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "dashboards": {
+    "response": "I'm learning about \"dashboards\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "seats": {
+    "response": "I'm learning about \"seats\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "infotainment": {
+    "response": "I'm learning about \"infotainment\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "suspension": {
+    "response": "I'm learning about \"suspension\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "brakes": {
+    "response": "I'm learning about \"brakes\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "glass": {
+    "response": "I'm learning about \"glass\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "wheels": {
+    "response": "I'm learning about \"wheels\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "installed": {
+    "response": "I'm learning about \"installed\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "robots": {
+    "response": "I'm learning about \"robots\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "human": {
+    "response": "I'm learning about \"human\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "workers": {
+    "response": "I'm learning about \"workers\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "collaborate": {
+    "response": "I'm learning about \"collaborate\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "precise": {
+    "response": "I'm learning about \"precise\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tasks": {
+    "response": "I'm learning about \"tasks\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "advanced": {
+    "response": "I'm learning about \"advanced\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "inspection": {
+    "response": "I'm learning about \"inspection\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tools": {
+    "response": "I'm learning about \"tools\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "laser": {
+    "response": "I'm learning about \"laser\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "scanners": {
+    "response": "I'm learning about \"scanners\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "torque": {
+    "response": "I'm learning about \"torque\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "each": {
+    "response": "I'm learning about \"each\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "component": {
+    "response": "I'm learning about \"component\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "meets": {
+    "response": "I'm learning about \"meets\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "strict": {
+    "response": "I'm learning about \"strict\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "requirements": {
+    "response": "I'm learning about \"requirements\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "completed": {
+    "response": "I'm learning about \"completed\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "undergoes": {
+    "response": "I'm learning about \"undergoes\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "electrical": {
+    "response": "I'm learning about \"electrical\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tests": {
+    "response": "I'm learning about \"tests\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "fluid": {
+    "response": "I'm learning about \"fluid\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "checks": {
+    "response": "I'm learning about \"checks\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "alignment": {
+    "response": "I'm learning about \"alignment\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "verification": {
+    "response": "I'm learning about \"verification\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "emission": {
+    "response": "I'm learning about \"emission\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "diagnostics": {
+    "response": "I'm learning about \"diagnostics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "also": {
+    "response": "I'm learning about \"also\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "dynamometer": {
+    "response": "I'm learning about \"dynamometer\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "road": {
+    "response": "I'm learning about \"road\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "validate": {
+    "response": "I'm learning about \"validate\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "acceleration": {
+    "response": "I'm learning about \"acceleration\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "braking": {
+    "response": "I'm learning about \"braking\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "vibration": {
+    "response": "I'm learning about \"vibration\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "tracking": {
+    "response": "I'm learning about \"tracking\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "delivery": {
+    "response": "I'm learning about \"delivery\". Could you tell me more about it? Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence.",
+    "confidence": 0.4,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "prepared": {
+    "response": "I'm learning about \"prepared\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "shipping": {
+    "response": "I'm learning about \"shipping\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "logistics": {
+    "response": "I'm learning about \"logistics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "networks": {
+    "response": "I'm learning about \"networks\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "dealerships": {
+    "response": "I'm learning about \"dealerships\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "worldwide": {
+    "response": "I'm learning about \"worldwide\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "factory": {
+    "response": "I'm learning about \"factory\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "robotics": {
+    "response": "I'm learning about \"robotics\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "sensors": {
+    "response": "I'm learning about \"sensors\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "conveyors": {
+    "response": "I'm learning about \"conveyors\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "ensuring": {
+    "response": "I'm learning about \"ensuring\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "efficiency": {
+    "response": "I'm learning about \"efficiency\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "structured": {
+    "response": "I'm learning about \"structured\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "from": {
+    "response": "I'm learning about \"from\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "ensures": {
+    "response": "I'm learning about \"ensures\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "customer": {
+    "response": "I'm learning about \"customer\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "expectations": {
+    "response": "I'm learning about \"expectations\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "help": {
+    "response": "I'm learning about \"help\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "searchh": {
+    "response": "I'm learning about \"searchh\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "abot": {
+    "response": "I'm learning about \"abot\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "quantum": {
+    "response": "I'm learning about \"quantum\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "computing": {
+    "response": "I'm learning about \"computing\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "latest": {
+    "response": "I'm learning about \"latest\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "research": {
+    "response": "I'm learning about \"research\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "needsImprovement": true
+  },
+  "cars": {
+    "response": "I'm learning about \"cars\". Could you tell me more about it?",
+    "confidence": 0.35,
+    "interactions": 2,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "needsImprovement": true,
+    "lastUpdated": "2025-11-23T06:29:42.399Z"
+  },
+  "name": {
+    "response": "I'm learning about \"name\". Could you tell me more about it?",
+    "confidence": 0.3,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "needsImprovement": true,
+    "lastUpdated": "2025-11-23T06:29:42.399Z"
+  },
+  "bachelor": {
+    "response": "I learned about \"bachelor\" while researching \"BTECH\". A Bachelor of Technology is a bachelor's degree that is awarded for programs usually related to engineering technology....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "technology": {
+    "response": "I learned about \"technology\" while researching \"BTECH\". A Bachelor of Technology is a bachelor's degree that is awarded for programs usually related to engineering technology....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "degree": {
+    "response": "I learned about \"degree\" while researching \"BTECH\". A Bachelor of Technology is a bachelor's degree that is awarded for programs usually related to engineering technology....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "award": {
+    "response": "I learned about \"award\" while researching \"BTECH\". A Bachelor of Technology is a bachelor's degree that is awarded for programs usually related to engineering technology....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "program": {
+    "response": "I learned about \"program\" while researching \"BTECH\". A Bachelor of Technology is a bachelor's degree that is awarded for programs usually related to engineering technology....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "engineer": {
+    "response": "I learned about \"engineer\" while researching \"BTECH\". Engineering education...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "education": {
+    "response": "I learned about \"education\" while researching \"BTECH\". Engineering education...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "degre": {
+    "response": "I learned about \"degre\" while researching \"BTECH\". Bachelor's degrees...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T16:59:56.821Z"
+  },
+  "structur": {
+    "response": "I learned about \"structur\" while researching \"games\". Game A structured type of play usually undertaken for entertainment or fun, and sometimes used as......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "usual": {
+    "response": "I learned about \"usual\" while researching \"games\". Game A structured type of play usually undertaken for entertainment or fun, and sometimes used as......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "undertaken": {
+    "response": "I learned about \"undertaken\" while researching \"games\". Game A structured type of play usually undertaken for entertainment or fun, and sometimes used as......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "entertain": {
+    "response": "I learned about \"entertain\" while researching \"games\". Game A structured type of play usually undertaken for entertainment or fun, and sometimes used as......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "sometim": {
+    "response": "I learned about \"sometim\" while researching \"games\". Game A structured type of play usually undertaken for entertainment or fun, and sometimes used as......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "theory": {
+    "response": "I learned about \"theory\" while researching \"games\". Game theory The study of mathematical models of strategic interactions....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "mathematical": {
+    "response": "I learned about \"mathematical\" while researching \"games\". Game theory The study of mathematical models of strategic interactions....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "model": {
+    "response": "I learned about \"model\" while researching \"games\". Game theory The study of mathematical models of strategic interactions....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "strategic": {
+    "response": "I learned about \"strategic\" while researching \"games\". Game theory The study of mathematical models of strategic interactions....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:01:59.931Z"
+  },
+  "btech": {
+    "response": "I learned about \"btech\" from our conversation. 🔍 **I found this information about \"BTECH\":**\n\n**Bachelor of Technology**\nA Bachelor of Technology ...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-05T17:09:46.475Z"
+  },
+  "current": {
+    "response": "I learned about \"current\" while researching \"current news india\". \"current news india\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:20.634Z"
+  },
+  "india": {
+    "response": "I learned about \"india\" while researching \"current news india\". \"current news india\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:20.634Z"
+  },
+  "analyz": {
+    "response": "I learned about \"analyz\" while researching \"current news india\". \"current news india\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:20.635Z"
+  },
+  "news": {
+    "response": "I learned about \"news\" from our conversation. 🔍 **I found this information about \"current news india\":**\n\n**Information about current news india*...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-05T17:10:20.642Z"
+  },
+  "machine": {
+    "response": "I learned about \"machine\" while researching \"what is computer\". A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations. Modern digital electronic com...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "programm": {
+    "response": "I learned about \"programm\" while researching \"what is computer\". A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations. Modern digital electronic com...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "automatical": {
+    "response": "I learned about \"automatical\" while researching \"what is computer\". A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations. Modern digital electronic com...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "carry": {
+    "response": "I learned about \"carry\" while researching \"what is computer\". A computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations. Modern digital electronic com...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "computability": {
+    "response": "I learned about \"computability\" while researching \"what is computer\". Computability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of co...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "known": {
+    "response": "I learned about \"known\" while researching \"what is computer\". Computability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of co...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "recursion": {
+    "response": "I learned about \"recursion\" while researching \"what is computer\". Computability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of co...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "branch": {
+    "response": "I learned about \"branch\" while researching \"what is computer\". Computability theory - Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of co...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "security": {
+    "response": "I learned about \"security\" while researching \"what is computer\". Computer security - Computer security is a subdiscipline within the field of information security....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "subdiscipline": {
+    "response": "I learned about \"subdiscipline\" while researching \"what is computer\". Computer security - Computer security is a subdiscipline within the field of information security....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "within": {
+    "response": "I learned about \"within\" while researching \"what is computer\". Computer security - Computer security is a subdiscipline within the field of information security....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "field": {
+    "response": "I learned about \"field\" while researching \"what is computer\". Computer security - Computer security is a subdiscipline within the field of information security....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "glossary": {
+    "response": "I learned about \"glossary\" while researching \"what is computer\". Glossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hard...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "hardware": {
+    "response": "I learned about \"hardware\" while researching \"what is computer\". Glossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hard...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "term": {
+    "response": "I learned about \"term\" while researching \"what is computer\". Glossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hard...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "definition": {
+    "response": "I learned about \"definition\" while researching \"what is computer\". Glossary of computer hardware terms - This glossary of computer hardware terms is a list of definitions of terms and concepts related to computer hard...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:10:47.238Z"
+  },
+  "krishna": {
+    "response": "I learned about \"krishna\" while researching \"give me 5 name of krishna ji\". \"give me 5 name of krishna ji\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:12:48.024Z"
+  },
+  "available": {
+    "response": "I learned about \"available\" while researching \"give me 5 name of krishna ji\". \"give me 5 name of krishna ji\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:12:48.024Z"
+  },
+  "give": {
+    "response": "I learned about \"give\" from our conversation. 🔍 **I found this information about \"give me 5 name of krishna ji\":**\n\n**Information about give me 5...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-05T17:12:48.033Z"
+  },
+  "session": {
+    "response": "I learned about \"session\" while researching \"new session\". \"new session\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-05T17:13:07.023Z"
+  },
+  "games": {
+    "response": "I learned about \"games\" from our conversation. 🔍 **I found this information about \"games\":**\n\n**Game A structured type of play usually undertaken ...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-05T17:23:46.207Z"
+  },
+  "wheel": {
+    "response": "I learned about \"wheel\" while researching \"cars\". Car A motor vehicle with wheels....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.993Z"
+  },
+  "american": {
+    "response": "I learned about \"american\" while researching \"cars\". Cars (film) A 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "animat": {
+    "response": "I learned about \"animat\" while researching \"cars\". Cars (film) A 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "sport": {
+    "response": "I learned about \"sport\" while researching \"cars\". Cars (film) A 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "comedy": {
+    "response": "I learned about \"comedy\" while researching \"cars\". Cars (film) A 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "produc": {
+    "response": "I learned about \"produc\" while researching \"cars\". Cars (film) A 2006 American animated sports comedy film produced by Pixar Animation Studios for Walt Disney......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "central": {
+    "response": "I learned about \"central\" while researching \"cars\". Central African Republic A landlocked country in Central Africa....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "african": {
+    "response": "I learned about \"african\" while researching \"cars\". Central African Republic A landlocked country in Central Africa....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "republic": {
+    "response": "I learned about \"republic\" while researching \"cars\". Central African Republic A landlocked country in Central Africa....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "landlock": {
+    "response": "I learned about \"landlock\" while researching \"cars\". Central African Republic A landlocked country in Central Africa....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "country": {
+    "response": "I learned about \"country\" while researching \"cars\". Central African Republic A landlocked country in Central Africa....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-06T08:11:00.994Z"
+  }
+}

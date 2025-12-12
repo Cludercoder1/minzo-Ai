@@ -1,0 +1,34 @@
+{
+  "testuser@example.com": {
+    "id": "user_1764952607931",
+    "email": "testuser@example.com",
+    "name": "testuser",
+    "passwordHash": "$2a$10$SIpaQq5rlfSvBfPS4qTg/OOMCPgKqWzwBMtGLgYw9nwt7/W/T0tkS",
+    "createdAt": "2025-12-05T16:36:47.932Z",
+    "provider": "local"
+  },
+  "rahulkumar9800099@gmail.com": {
+    "id": "user_1764952671716",
+    "email": "rahulkumar9800099@gmail.com",
+    "name": "abc",
+    "passwordHash": "$2a$10$XDJqZdn5byPXzUuusUTTMuYygeD4./wJf7EVnStcwNat5LQtgG.dO",
+    "createdAt": "2025-12-05T16:37:51.716Z",
+    "provider": "local"
+  },
+  "rg018937@gmail.com": {
+    "id": "user_1764953180777",
+    "email": "rg018937@gmail.com",
+    "name": "sneha yadav",
+    "passwordHash": "$2a$10$3Ae2/MrKNrIHsbhP6A.JpuWCwwHjLi5m.bjWJfxwJVmrJ3oBGy.7W",
+    "createdAt": "2025-12-05T16:46:20.777Z",
+    "provider": "local"
+  },
+  "testuser_final@example.com": {
+    "id": "user_1764954574151",
+    "email": "testuser_final@example.com",
+    "name": "testuser_final",
+    "passwordHash": "$2a$10$n0byJ8DgmaH5oALqYd0mDeNeFpva.KUZ2jija.4fuWZeglLodFlT2",
+    "createdAt": "2025-12-05T17:09:34.151Z",
+    "provider": "local"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "minzofoundation-ai",
+  "version": "1.0.0",
+  "description": "MinzoFoundation AI Platform - Advanced Generative AI Solutions",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run client\"",
+    "backend": "cd backend && npm run dev",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "docker:build": "docker-compose build",
+    "docker:up": "docker-compose up -d",
+    "docker:down": "docker-compose down"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+  ,
+  "dependencies": {
+    "better-sqlite3": "^8.3.0"
+  }
+}

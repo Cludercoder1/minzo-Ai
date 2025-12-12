@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  minzo-backend:
+    build: ./backend
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=production
+      - MINZO_API_KEY=${MINZO_API_KEY}
+      - MINZO_BASE_URL=${MINZO_BASE_URL}
+      - PORT=3001
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    restart: unless-stopped
+
+  minzo-client:
+    build: ./client
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_BASE_URL=http://localhost:3001
+    depends_on:
+      - minzo-backend
+    restart: unless-stopped
