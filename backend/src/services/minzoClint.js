@@ -72,6 +72,9 @@ class MinzoAIClient {
 
   async generateImage({ prompt, model = 'dall-e-3', size = '1024x1024', quality = 'standard' }) {
     try {
+      if (!this.apiKey) {
+        return { success: false, error: 'MINZO_API_KEY not configured' };
+      }
       const response = await this.client.post('/images/generations', {
         model,
         prompt,

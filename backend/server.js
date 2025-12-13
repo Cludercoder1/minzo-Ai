@@ -13,6 +13,7 @@ app.use(cors());
 app.use(express.json());
 const cookieParser = require('cookie-parser');
 app.use(cookieParser());
+// axios already imported earlier
 
 // Auth & security
 const bcrypt = require('bcryptjs');
@@ -1006,6 +1007,28 @@ app.post('/api/search', async (req, res) => {
             error: 'Search failed',
             message: 'Please try a different query.'
         });
+    }
+});
+
+// Proxy to the Python image generation service
+app.post('/api/generate-image', async (req, res) => {
+    try {
+        const { prompt, width = 1024, height = 1024, mode = 'placeholder', provider } = req.body || {};
+        const imageServiceUrl = process.env.IMAGE_SERVICE_URL || process.env.PYTHON_IMAGE_SERVICE_URL || 'http://localhost:5001/generate';
+        const minzoApiKey = process.env.MINZO_API_KEY || null;
+        if (!imageServiceUrl && !minzoApiKey) {
+            return res.status(501).json({ success: false, error: 'No image generation service configured', message: 'Set PYTHON_IMAGE_SERVICE_URL or MINZO_API_KEY in environment variables' });
+        }
+
+        const payload = { prompt, width, height, mode, provider };
+        const resp = await axios.post(imageServiceUrl, payload, { headers: { 'Content-Type': 'application/json' }, timeout: 60000 });
+        if (resp && resp.data) {
+            return res.json(resp.data);
+        }
+        return res.status(502).json({ success: false, error: 'No response from image service' });
+    } catch (error) {
+        console.error('Image generation proxy error:', error && error.message);
+        return res.status(500).json({ success: false, error: 'Image generation error', message: error && error.message });
     }
 });
 

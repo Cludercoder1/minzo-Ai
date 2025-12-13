@@ -3199,5 +3199,1240 @@
       "web_search"
     ],
     "lastUpdated": "2025-12-06T08:11:00.994Z"
+  },
+  "mobile": {
+    "response": "I learned about \"mobile\" while researching \"what is mobile\". Mobile phone A portable wireless telephone that allows users to make and receive calls over a radio frequency......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.198Z"
+  },
+  "phone": {
+    "response": "I learned about \"phone\" while researching \"what is mobile\". Mobile phone A portable wireless telephone that allows users to make and receive calls over a radio frequency......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.198Z"
+  },
+  "portable": {
+    "response": "I learned about \"portable\" while researching \"what is mobile\". Mobile phone A portable wireless telephone that allows users to make and receive calls over a radio frequency......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.201Z"
+  },
+  "wireles": {
+    "response": "I learned about \"wireles\" while researching \"what is mobile\". Mobile phone A portable wireless telephone that allows users to make and receive calls over a radio frequency......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.201Z"
+  },
+  "telephone": {
+    "response": "I learned about \"telephone\" while researching \"what is mobile\". Mobile phone A portable wireless telephone that allows users to make and receive calls over a radio frequency......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.201Z"
+  },
+  "alabama": {
+    "response": "I learned about \"alabama\" while researching \"what is mobile\". Mobile, Alabama A city and the county seat of Mobile County, Alabama, United States....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "county": {
+    "response": "I learned about \"county\" while researching \"what is mobile\". Mobile, Alabama A city and the county seat of Mobile County, Alabama, United States....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "unit": {
+    "response": "I learned about \"unit\" while researching \"what is mobile\". Mobile, Alabama A city and the county seat of Mobile County, Alabama, United States....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "stat": {
+    "response": "I learned about \"stat\" while researching \"what is mobile\". Mobile, Alabama A city and the county seat of Mobile County, Alabama, United States....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "operat": {
+    "response": "I learned about \"operat\" while researching \"what is mobile\". Mobile operating system An operating system used for smartphones, tablets, smartwatches, smartglasses, or other......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "system": {
+    "response": "I learned about \"system\" while researching \"what is mobile\". Mobile operating system An operating system used for smartphones, tablets, smartwatches, smartglasses, or other......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "smartphon": {
+    "response": "I learned about \"smartphon\" while researching \"what is mobile\". Mobile operating system An operating system used for smartphones, tablets, smartwatches, smartglasses, or other......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "tablet": {
+    "response": "I learned about \"tablet\" while researching \"what is mobile\". Mobile operating system An operating system used for smartphones, tablets, smartwatches, smartglasses, or other......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T06:57:45.202Z"
+  },
+  "century": {
+    "response": "I learned about \"century\" while researching \"game\". 26th-century BC establishments...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T07:22:19.947Z"
+  },
+  "establishment": {
+    "response": "I learned about \"establishment\" while researching \"game\". 26th-century BC establishments...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T07:22:19.947Z"
+  },
+  "game": {
+    "response": "I learned about \"game\" from our conversation. 🔍 **I found this information about \"game\":**\n\n**Game**\nA game is a structured type of play usually ...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T07:22:19.996Z"
+  },
+  "clear": {
+    "response": "I learned about \"clear\" while researching \"clear\". Clear Secure Clear Secure, Inc. is an American technology company that operates biometric travel document......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "secure": {
+    "response": "I learned about \"secure\" while researching \"clear\". Clear Secure Clear Secure, Inc. is an American technology company that operates biometric travel document......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "company": {
+    "response": "I learned about \"company\" while researching \"clear\". Clear Secure Clear Secure, Inc. is an American technology company that operates biometric travel document......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "scientology": {
+    "response": "I learned about \"scientology\" while researching \"clear\". Clear (Scientology) A status afforded to followers by the Scientology organization, or by other Scientologists, after......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "statu": {
+    "response": "I learned about \"statu\" while researching \"clear\". Clear (Scientology) A status afforded to followers by the Scientology organization, or by other Scientologists, after......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "afford": {
+    "response": "I learned about \"afford\" while researching \"clear\". Clear (Scientology) A status afforded to followers by the Scientology organization, or by other Scientologists, after......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "follower": {
+    "response": "I learned about \"follower\" while researching \"clear\". Clear (Scientology) A status afforded to followers by the Scientology organization, or by other Scientologists, after......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "space": {
+    "response": "I learned about \"space\" while researching \"clear\". Clear Space Force Station A United States Space Force radar station for detecting incoming ICBMs and submarine-launched......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "force": {
+    "response": "I learned about \"force\" while researching \"clear\". Clear Space Force Station A United States Space Force radar station for detecting incoming ICBMs and submarine-launched......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "station": {
+    "response": "I learned about \"station\" while researching \"clear\". Clear Space Force Station A United States Space Force radar station for detecting incoming ICBMs and submarine-launched......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:10:43.208Z"
+  },
+  "battleground": {
+    "response": "I learned about \"battleground\" while researching \"pubg\". PUBG: Battlegrounds is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. The game, which was inspired by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "battle": {
+    "response": "I learned about \"battle\" while researching \"pubg\". PUBG: Battlegrounds is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. The game, which was inspired by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "royale": {
+    "response": "I learned about \"royale\" while researching \"pubg\". PUBG: Battlegrounds is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. The game, which was inspired by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "video": {
+    "response": "I learned about \"video\" while researching \"pubg\". PUBG: Battlegrounds is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. The game, which was inspired by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "publish": {
+    "response": "I learned about \"publish\" while researching \"pubg\". PUBG: Battlegrounds is a 2017 battle royale video game published by Krafton, and developed by Krafton's PUBG Studios. The game, which was inspired by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "internet": {
+    "response": "I learned about \"internet\" while researching \"pubg\". Internet censorship in India...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "censorship": {
+    "response": "I learned about \"censorship\" while researching \"pubg\". Internet censorship in India...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "cros": {
+    "response": "I learned about \"cros\" while researching \"pubg\". Video games with cross-platform play...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.562Z"
+  },
+  "platform": {
+    "response": "I learned about \"platform\" while researching \"pubg\". Video games with cross-platform play...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.567Z"
+  },
+  "russia": {
+    "response": "I learned about \"russia\" while researching \"pubg\". Video games set in Russia...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.567Z"
+  },
+  "pubg": {
+    "response": "I learned about \"pubg\" from our conversation. 🔍 **I found this information about \"pubg\":**\n\n**PUBG: Battlegrounds**\nPUBG: Battlegrounds is a 2017...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T09:11:19.586Z"
+  },
+  "search": {
+    "response": "I learned about \"search\" while researching \"search anjali\". \"search anjali\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:22:59.900Z"
+  },
+  "anjali": {
+    "response": "I learned about \"anjali\" while researching \"search anjali\". \"search anjali\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:22:59.901Z"
+  },
+  "cardiology": {
+    "response": "I learned about \"cardiology\" while researching \"what is cardio\". Cardiology The study of the heart....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "heart": {
+    "response": "I learned about \"heart\" while researching \"what is cardio\". Cardiology The study of the heart....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "cardiovascular": {
+    "response": "I learned about \"cardiovascular\" while researching \"what is cardio\". Cardiovascular fitness Cardiovascular fitness refers a health-related component of physical fitness that is brought......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "fitnes": {
+    "response": "I learned about \"fitnes\" while researching \"what is cardio\". Cardiovascular fitness Cardiovascular fitness refers a health-related component of physical fitness that is brought......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "refer": {
+    "response": "I learned about \"refer\" while researching \"what is cardio\". Cardiovascular fitness Cardiovascular fitness refers a health-related component of physical fitness that is brought......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "health": {
+    "response": "I learned about \"health\" while researching \"what is cardio\". Cardiovascular fitness Cardiovascular fitness refers a health-related component of physical fitness that is brought......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "relat": {
+    "response": "I learned about \"relat\" while researching \"what is cardio\". Cardiovascular fitness Cardiovascular fitness refers a health-related component of physical fitness that is brought......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "aerobic": {
+    "response": "I learned about \"aerobic\" while researching \"what is cardio\". Aerobic exercise Aerobic exercise is physical exercise of low to high intensity that depends primarily on the......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "exercise": {
+    "response": "I learned about \"exercise\" while researching \"what is cardio\". Aerobic exercise Aerobic exercise is physical exercise of low to high intensity that depends primarily on the......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "physical": {
+    "response": "I learned about \"physical\" while researching \"what is cardio\". Aerobic exercise Aerobic exercise is physical exercise of low to high intensity that depends primarily on the......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "intensity": {
+    "response": "I learned about \"intensity\" while researching \"what is cardio\". Aerobic exercise Aerobic exercise is physical exercise of low to high intensity that depends primarily on the......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "depend": {
+    "response": "I learned about \"depend\" while researching \"what is cardio\". Aerobic exercise Aerobic exercise is physical exercise of low to high intensity that depends primarily on the......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:26:15.105Z"
+  },
+  "cardio": {
+    "response": "I learned about \"cardio\" from our conversation. 🔍 **I found this information about \"what is cardio\":**\n\n**Cardiology The study of the heart.**\nCard...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T09:26:18.092Z"
+  },
+  "benge": {
+    "response": "I learned about \"benge\" while researching \"benge car\". \"benge car\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T09:59:49.128Z"
+  },
+  "official": {
+    "response": "I learned about \"official\" while researching \"INDIA\". India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country since 2023; ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "south": {
+    "response": "I learned about \"south\" while researching \"INDIA\". India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area; the most populous country since 2023; ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "category": {
+    "response": "I learned about \"category\" while researching \"INDIA\". India Category...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "administrative": {
+    "response": "I learned about \"administrative\" while researching \"INDIA\". Administrative divisions of India - The administrative divisions of India are subnational administrative units of India; they are composed of a nested...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "division": {
+    "response": "I learned about \"division\" while researching \"INDIA\". Administrative divisions of India - The administrative divisions of India are subnational administrative units of India; they are composed of a nested...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "subnational": {
+    "response": "I learned about \"subnational\" while researching \"INDIA\". Administrative divisions of India - The administrative divisions of India are subnational administrative units of India; they are composed of a nested...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.467Z"
+  },
+  "outline": {
+    "response": "I learned about \"outline\" while researching \"INDIA\". Outline of India - The following outline is provided as an overview of and topical guide to India: Republic of India – the seventh-largest country by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.468Z"
+  },
+  "follow": {
+    "response": "I learned about \"follow\" while researching \"INDIA\". Outline of India - The following outline is provided as an overview of and topical guide to India: Republic of India – the seventh-largest country by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.482Z"
+  },
+  "provid": {
+    "response": "I learned about \"provid\" while researching \"INDIA\". Outline of India - The following outline is provided as an overview of and topical guide to India: Republic of India – the seventh-largest country by ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:55:26.482Z"
+  },
+  "nepal": {
+    "response": "I learned about \"nepal\" while researching \"NEPAL\". Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also in...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "federal": {
+    "response": "I learned about \"federal\" while researching \"NEPAL\". Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also in...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "democratic": {
+    "response": "I learned about \"democratic\" while researching \"NEPAL\". Nepal, officially the Federal Democratic Republic of Nepal, is a landlocked country in South Asia. It is mainly situated in the Himalayas, but also in...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "constitutional": {
+    "response": "I learned about \"constitutional\" while researching \"NEPAL\". Federal constitutional republics...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "member": {
+    "response": "I learned about \"member\" while researching \"NEPAL\". Member states of the South Asian Association for Regional Cooperation...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "asian": {
+    "response": "I learned about \"asian\" while researching \"NEPAL\". Member states of the South Asian Association for Regional Cooperation...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "association": {
+    "response": "I learned about \"association\" while researching \"NEPAL\". Member states of the South Asian Association for Regional Cooperation...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T12:57:57.620Z"
+  },
+  "tell": {
+    "response": "I learned about \"tell\" from our conversation. 🔍 **I found this information about \"tell me about motors cars\":**\n\n**Information about tell me abou...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:07:20.558Z"
+  },
+  "motors": {
+    "response": "I learned about \"motors\" from our conversation. 🔍 **I found this information about \"tell me about motors cars\":**\n\n**Information about tell me abou...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:07:20.558Z"
+  },
+  "teach": {
+    "response": "I learned about \"teach\" while researching \"can you teach me how to learn english\". \"can you teach me how to learn english\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:08:03.978Z"
+  },
+  "learn": {
+    "response": "I learned about \"learn\" while researching \"can you teach me how to learn english\". \"can you teach me how to learn english\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:08:03.978Z"
+  },
+  "english": {
+    "response": "I learned about \"english\" while researching \"can you teach me how to learn english\". \"can you teach me how to learn english\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:08:03.978Z"
+  },
+  "song": {
+    "response": "I learned about \"song\" while researching \"old songs\". \"old songs\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:11:28.072Z"
+  },
+  "songs": {
+    "response": "I learned about \"songs\" from our conversation. 🔍 **I found this information about \"old songs\":**\n\n**Information about old songs**\nI'm researching ...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:11:28.080Z"
+  },
+  "deep": {
+    "response": "I learned about \"deep\" from our conversation. 🔍 **I found this information about \"deep search\":**\n\n**Information about deep search**\nI'm research...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:11:37.394Z"
+  },
+  "relation": {
+    "response": "I learned about \"relation\" while researching \"india russia relation\". \"india russia relation\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:12:26.288Z"
+  },
+  "eleventh": {
+    "response": "I learned about \"eleventh\" while researching \"exit\". \"eXit\" is the eleventh episode of the fourth season of the American drama thriller television series Mr. Robot. It is the 43rd overall episode of the ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:13:16.483Z"
+  },
+  "episode": {
+    "response": "I learned about \"episode\" while researching \"exit\". \"eXit\" is the eleventh episode of the fourth season of the American drama thriller television series Mr. Robot. It is the 43rd overall episode of the ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:13:16.483Z"
+  },
+  "fourth": {
+    "response": "I learned about \"fourth\" while researching \"exit\". \"eXit\" is the eleventh episode of the fourth season of the American drama thriller television series Mr. Robot. It is the 43rd overall episode of the ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:13:16.483Z"
+  },
+  "season": {
+    "response": "I learned about \"season\" while researching \"exit\". \"eXit\" is the eleventh episode of the fourth season of the American drama thriller television series Mr. Robot. It is the 43rd overall episode of the ...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:13:16.483Z"
+  },
+  "exit": {
+    "response": "I learned about \"exit\" from our conversation. 🔍 **I found this information about \"exit\":**\n\n**eXit**\n\"eXit\" is the eleventh episode of the fourth...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:13:16.490Z"
+  },
+  "hacker": {
+    "response": "I learned about \"hacker\" while researching \"what is hacking\". Hacker A person skilled in information technology who achieves goals and solves problems by non-standard......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "person": {
+    "response": "I learned about \"person\" while researching \"what is hacking\". Hacker A person skilled in information technology who achieves goals and solves problems by non-standard......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "skill": {
+    "response": "I learned about \"skill\" while researching \"what is hacking\". Hacker A person skilled in information technology who achieves goals and solves problems by non-standard......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "information": {
+    "response": "I learned about \"information\" while researching \"what is hacking\". Hacker A person skilled in information technology who achieves goals and solves problems by non-standard......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "culture": {
+    "response": "I learned about \"culture\" while researching \"what is hacking\". Hacker culture A subculture of individuals who enjoy-often in collective effort—the intellectual challenge of......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "subculture": {
+    "response": "I learned about \"subculture\" while researching \"what is hacking\". Hacker culture A subculture of individuals who enjoy-often in collective effort—the intellectual challenge of......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "individual": {
+    "response": "I learned about \"individual\" while researching \"what is hacking\". Hacker culture A subculture of individuals who enjoy-often in collective effort—the intellectual challenge of......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "enjoy": {
+    "response": "I learned about \"enjoy\" while researching \"what is hacking\". Hacker culture A subculture of individuals who enjoy-often in collective effort—the intellectual challenge of......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "hack": {
+    "response": "I learned about \"hack\" while researching \"what is hacking\". Phone hacking The practice of exploring a mobile device, often using computer exploits to analyze everything......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "practice": {
+    "response": "I learned about \"practice\" while researching \"what is hacking\". Phone hacking The practice of exploring a mobile device, often using computer exploits to analyze everything......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "explor": {
+    "response": "I learned about \"explor\" while researching \"what is hacking\". Phone hacking The practice of exploring a mobile device, often using computer exploits to analyze everything......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.913Z"
+  },
+  "hacking": {
+    "response": "I learned about \"hacking\" from our conversation. 🔍 **I found this information about \"what is hacking\":**\n\n**Hacker A person skilled in information t...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-13T13:15:08.918Z"
   }
 }

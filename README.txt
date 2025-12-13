@@ -53,6 +53,19 @@ The frontend runs on [http://localhost:3000](http://localhost:3000)
 #### 6. Open the app
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
+### Windows quick dev start
+
+- Use `start-dev.ps1` from the repo root to open separate PowerShell windows for backend, frontend, image microservice, and optional ngrok tunnels:
+	- Run: `powershell -ExecutionPolicy Bypass -File start-dev.ps1`  # run with admin if required
+	- Flags: `-Ngrok` to also start ngrok tunnels
+	- Flags: `-NoPython` to skip launching the Python image service
+	- The script will create `.env` files from templates if missing.
+
+Prerequisites for Windows quick dev start:
+- Node.js + npm (on PATH)
+- Python 3.9+ (on PATH) for the `backend/python_image_service` venv and `uvicorn`
+- ngrok (optional) added to PATH, or the script will skip tunnels if not present
+
 ---
 
 ## Docker Compose (Optional)
@@ -83,3 +96,9 @@ docker-compose up --build
 ---
 
 For more details, see `backend/README.md` and `client/README.md`.
+
+## Configurable Frontend Backend URL
+- The frontend reads the backend address from `window.MINZO_BACKEND_URL` at runtime. To configure this:
+	- Locally: set `REACT_APP_BACKEND_URL` in `client/.env` or run the frontend dev server with `REACT_APP_BACKEND_URL=http://localhost:3001 npm start`.
+	- In production: set the environment variable `REACT_APP_BACKEND_URL` during build, or inject `window.__MINZO_BACKEND_URL__` and/or the `meta` tag `minzo-backend` with the correct backend URL.
+	- When using Docker Compose, the `REACT_APP_BACKEND_URL` is set to `http://minzo-backend:3001` by default in `docker-compose.yml`.

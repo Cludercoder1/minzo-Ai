@@ -19,7 +19,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - REACT_APP_API_BASE_URL=http://localhost:3001
+      - REACT_APP_BACKEND_URL=http://minzo-backend:3001
     depends_on:
       - minzo-backend
     restart: unless-stopped

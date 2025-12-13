@@ -69,5 +69,6 @@ echo 2. Frontend: cd client && npm start
 echo.
 echo Backend will run on: http://localhost:3001
 echo Frontend will run on: http://localhost:3000
+echo Frontend configured to use backend host via REACT_APP_BACKEND_URL=http://localhost:3001
 echo.
 pause
