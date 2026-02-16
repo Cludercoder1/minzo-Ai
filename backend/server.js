@@ -5,6 +5,13 @@ const axios = require('axios');
 const path = require('path');
 const fs = require('fs');
 
+// Import moderation and romantic engines
+const ContentModerator = require('./src/services/moderation');
+const RomanticResponseEngine = require('./src/services/romanticEngine');
+const ImageGenerator = require('./src/services/imageGenerator');
+const RealImageGenerator = require('./src/services/realImageGenerator');
+const moderationRoutes = require('./src/routes/moderation');
+
 const app = express();
 const PORT = 3001;
 
@@ -789,6 +796,25 @@ class WorkingSelfLearningAI {
 // Initialize AI
 const minzoAI = new WorkingSelfLearningAI();
 
+// Initialize Moderation System
+const moderator = new ContentModerator(path.join(__dirname, 'data'));
+console.log('🛡️  Content Moderation System initialized');
+
+// Initialize Romantic Response Engine
+const romanticEngine = new RomanticResponseEngine(minzoAI.knowledgeBase);
+console.log('💕 Romantic Response Engine initialized');
+
+// Initialize Image Generator
+const imageGenerator = new ImageGenerator();
+console.log('🖼️  Image Generation Service initialized');
+
+// Initialize Real Image Generator (for actual photos)
+const realImageGenerator = new RealImageGenerator();
+console.log('📸 Real Image Generator initialized (Pexels, Unsplash, Pixabay, Hugging Face)');
+
+// Moderation Routes
+app.use('/api/moderation', moderationRoutes(moderator));
+
 // API Routes
 app.get('/', (req, res) => {
     res.json({ 
@@ -937,13 +963,82 @@ app.post('/api/chat', async (req, res) => {
 
         console.log(`💬 CHAT REQUEST: "${message}"`);
         
+        // ========== STEP 1: CONTENT MODERATION ==========
+        const moderation = moderator.processUserInput(message.trim(), userId);
+
+        if (moderation.action === 'BLOCK') {
+            // Critical content - block immediately
+            return res.json({
+                success: true,
+                response: moderation.response,
+                blocked: true,
+                severity: moderation.analysis.severity,
+                type: 'moderation'
+            });
+        }
+
+        if (moderation.action === 'FLAG') {
+            console.log(`⚠️  FLAGGED from ${userId}: ${moderation.analysis.severity}`);
+        }
+
+        // ========== STEP 2: ROMANTIC DETECTION ==========
+        if (romanticEngine.isRomanticInput(message)) {
+            const romanticResult = romanticEngine.processRomanticInput(message);
+
+            if (romanticResult.success) {
+                // Found romantic response!
+                return res.json({
+                    success: true,
+                    response: romanticResult.response,
+                    category: romanticResult.category,
+                    matchScore: romanticResult.matchScore,
+                    isRomantic: true,
+                    type: 'romantic',
+                    flagged: moderation.action === 'FLAG'
+                });
+            }
+        }
+
+        // ========== STEP 3: IMAGE GENERATION DETECTION ==========
+        // Check if message is asking for image generation
+        const imageKeywords = /generate|create|draw|make|show|picture|image|artwork|visualize|photo|design/i;
+        if (imageKeywords.test(message)) {
+            // Extract the actual image prompt (remove "generate", "create", etc.)
+            let imagePrompt = message.replace(/^(generate|create|draw|make|show|visualize|design)\s+/i, '').trim();
+            
+            if (imagePrompt.length > 3) {
+                console.log(`🎨 REAL IMAGE GENERATION REQUEST: "${imagePrompt}"`);
+                
+                try {
+                    // Use RealImageGenerator for actual images
+                    const realImageResult = await realImageGenerator.generateImage(imagePrompt, 3);
+                    
+                    if (realImageResult && realImageResult.images && realImageResult.images.length > 0) {
+                        console.log(`✅ Generated ${realImageResult.images.length} real images from ${realImageResult.source}`);
+                        
+                        return res.json({
+                            success: true,
+                            response: `🎨 Found ${realImageResult.images.length} images for "${imagePrompt}" (Source: ${realImageResult.source})`,
+                            type: 'image',
+                            images: realImageResult.images,
+                            prompt: imagePrompt,
+                            imageSource: realImageResult.source,
+                            cached: realImageResult.cached || false,
+                            flagged: moderation.action === 'FLAG'
+                        });
+                    }
+                } catch (imageErr) {
+                    console.warn('Real image generation error:', imageErr);
+                    // Fall through to regular AI response
+                }
+            }
+        }
+
+        // ========== STEP 4: REGULAR AI RESPONSE ==========
         const aiResponse = await minzoAI.generateResponse(message, userId, useWebSearch);
 
         // Persist the interaction (if possible)
         try {
-            if (!this.userInteractions.interactions || !Array.isArray(this.userInteractions.interactions)) {
-                this.userInteractions.interactions = [];
-            }
             const interaction = {
                 id: uuidv4(),
                 userId: userId,
@@ -967,6 +1062,8 @@ app.post('/api/chat', async (req, res) => {
             learned: aiResponse.learned,
             usedWebSearch: aiResponse.usedWebSearch,
             webResults: aiResponse.webResults,
+            isRomantic: false,
+            flagged: moderation.action === 'FLAG',
             timestamp: new Date().toISOString()
         });
 
@@ -1032,6 +1129,62 @@ app.post('/api/generate-image', async (req, res) => {
     }
 });
 
+// TTS (Text-to-Speech) Endpoints
+app.post('/api/tts', async (req, res) => {
+    try {
+        const { text, language = 'en' } = req.body || {};
+        
+        if (!text || text.trim().length === 0) {
+            return res.status(400).json({ success: false, error: 'Text is required' });
+        }
+
+        const ttsServiceUrl = process.env.TTS_SERVICE_URL || process.env.PYTHON_IMAGE_SERVICE_URL || 'http://localhost:5001/tts';
+        
+        const payload = { text, language };
+        const resp = await axios.post(ttsServiceUrl, payload, { 
+            headers: { 'Content-Type': 'application/json' }, 
+            timeout: 60000 
+        });
+        
+        if (resp && resp.data) {
+            return res.json(resp.data);
+        }
+        return res.status(502).json({ success: false, error: 'No response from TTS service' });
+    } catch (error) {
+        console.error('TTS error:', error && error.message);
+        return res.status(500).json({ success: false, error: 'TTS generation error', message: error && error.message });
+    }
+});
+
+app.post('/api/tts/file', async (req, res) => {
+    try {
+        const { text, language = 'en' } = req.body || {};
+        
+        if (!text || text.trim().length === 0) {
+            return res.status(400).json({ success: false, error: 'Text is required' });
+        }
+
+        const ttsServiceUrl = process.env.TTS_SERVICE_URL || process.env.PYTHON_IMAGE_SERVICE_URL || 'http://localhost:5001/tts/file';
+        
+        const payload = { text, language };
+        const resp = await axios.post(ttsServiceUrl, payload, { 
+            headers: { 'Content-Type': 'application/json' }, 
+            timeout: 60000,
+            responseType: 'arraybuffer'
+        });
+        
+        if (resp && resp.data) {
+            res.type('audio/wav');
+            res.set('Content-Disposition', 'attachment; filename="speech.wav"');
+            return res.send(resp.data);
+        }
+        return res.status(502).json({ success: false, error: 'No response from TTS service' });
+    } catch (error) {
+        console.error('TTS file error:', error && error.message);
+        return res.status(500).json({ success: false, error: 'TTS file generation error', message: error && error.message });
+    }
+});
+
 app.get('/api/statistics', (req, res) => {
     const stats = minzoAI.getStatistics();
     res.json({
@@ -1041,18 +1194,155 @@ app.get('/api/statistics', (req, res) => {
     });
 });
 
+// Real Image Generation Endpoints
+app.post('/api/image/generate-real', async (req, res) => {
+    try {
+        const { prompt, count = 3 } = req.body;
+
+        if (!prompt || prompt.trim().length === 0) {
+            return res.status(400).json({
+                success: false,
+                error: 'Prompt is required'
+            });
+        }
+
+        console.log(`📸 Real image generation request: "${prompt}" (count: ${count})`);
+        
+        const result = await realImageGenerator.generateImage(prompt, count);
+        
+        res.json({
+            success: true,
+            prompt: prompt,
+            images: result.images,
+            source: result.source,
+            cached: result.cached || false,
+            stats: realImageGenerator.getStats()
+        });
+
+    } catch (error) {
+        console.error('Real image generation error:', error);
+        res.status(500).json({
+            success: false,
+            error: 'Image generation failed',
+            message: error.message
+        });
+    }
+});
+
+app.get('/api/image/real-stats', (req, res) => {
+    const stats = realImageGenerator.getStats();
+    res.json({
+        success: true,
+        stats: stats,
+        availableProviders: ['Pexels', 'Unsplash', 'Pixabay', 'Hugging Face'],
+        configurationGuide: {
+            'UNSPLASH_API_KEY': 'Get from https://unsplash.com/oauth/applications',
+            'PIXABAY_API_KEY': 'Get from https://pixabay.com/api/docs/',
+            'PEXELS_API_KEY': 'Optional - Get from https://www.pexels.com/api/',
+            'HUGGINGFACE_API_KEY': 'Optional - Get from https://huggingface.co/settings/tokens'
+        },
+        timestamp: new Date().toISOString()
+    });
+});
+
+app.post('/api/config/image-keys', (req, res) => {
+    const { unsplash, pixabay, pexels, huggingface } = req.body;
+    
+    if (unsplash) realImageGenerator.providers.unsplash = unsplash;
+    if (pixabay) realImageGenerator.providers.pixabay = pixabay;
+    if (pexels) realImageGenerator.providers.pexels = pexels;
+    if (huggingface) realImageGenerator.providers.huggingface = huggingface;
+    
+    console.log('🔑 Image generation API keys configured');
+    
+    res.json({
+        success: true,
+        message: 'API keys configured',
+        configuredProviders: Object.keys(realImageGenerator.providers).filter(
+            p => realImageGenerator.providers[p] !== null
+        )
+    });
+});
+
+// Romantic endpoints
+app.post('/api/romantic', (req, res) => {
+    const { text, userId } = req.body;
+
+    if (!text) {
+        return res.status(400).json({ error: 'Text is required' });
+    }
+
+    const isRomantic = romanticEngine.isRomanticInput(text);
+
+    if (!isRomantic) {
+        return res.json({
+            success: false,
+            message: 'Input does not contain romantic keywords'
+        });
+    }
+
+    const result = romanticEngine.processRomanticInput(text);
+
+    res.json({
+        success: result.success,
+        input: text,
+        response: result.response,
+        category: result.category,
+        matchScore: result.matchScore,
+        isRomantic: true
+    });
+});
+
+app.get('/api/romantic/stats', (req, res) => {
+    const stats = romanticEngine.getStatistics();
+    res.json({
+        success: true,
+        stats
+    });
+});
+
+app.get('/api/romantic/random/:category', (req, res) => {
+    const { category } = req.params;
+    const random = romanticEngine.getRandomResponseByCategory(category);
+
+    if (!random) {
+        return res.status(404).json({
+            error: `Category "${category}" not found`
+        });
+    }
+
+    res.json({
+        success: true,
+        category,
+        response: random.response,
+        isRandom: true
+    });
+});
+
 // Start server
 app.listen(PORT, '0.0.0.0', () => {
     console.log('='.repeat(70));
-    console.log('🚀 MINZOFOUNDATION AI WITH WORKING WEB SEARCH!');
+    console.log('🚀 MINZOFOUNDATION AI - FULL FEATURED!');
     console.log('='.repeat(70));
     console.log(`📍 Port: ${PORT}`);
     console.log(`🌐 URL: http://localhost:${PORT}`);
-    console.log(`🔍 Web Search: 100% WORKING`);
-    console.log(`🤖 Learning: ACTIVE`);
+    console.log(`🔍 Web Search: ✅ ACTIVE`);
+    console.log(`🤖 Learning: ✅ ACTIVE`);
+    console.log(`💕 Romantic Responses: ✅ ${romanticEngine.getStatistics().totalRomanticResponses} responses trained`);
+    console.log(`🛡️  Content Moderation: ✅ ACTIVE`);
+    console.log(`�️  Image Generation: ✅ ACTIVE`);
     console.log(`📊 Knowledge: ${Object.keys(minzoAI.knowledgeBase).length} topics`);
     console.log('='.repeat(70));
-    console.log('✅ Ready to answer questions with REAL web search!');
+    console.log('✅ All systems ready! Server is LIVE on localhost:3001');
+    console.log('='.repeat(70));
+    console.log('\nAvailable Endpoints:');
+    console.log('  POST /api/chat - Chat with AI (supports images, moderation & romance)');
+    console.log('  POST /api/romantic - Romantic response detection');
+    console.log('  GET /api/romantic/stats - Romantic response statistics');
+    console.log('  GET /api/moderation/stats - Moderation statistics');
+    console.log('  POST /api/moderation/check - Check content for harmful patterns');
+    console.log('  POST /api/image/generate-simple - Generate images from prompt');
+    console.log('  GET /api/image/stats - Image generation statistics');
     console.log('='.repeat(70));
 });
 

@@ -3,8 +3,10 @@ const { body, validationResult } = require('express-validator');
 const axios = require('axios');
 const config = require('../config');
 const minzoClient = require('../services/minzoClient');
+const ImageGenerator = require('../services/imageGenerator');
 
 const router = express.Router();
+const imageGen = new ImageGenerator();
 
 // Validation rules
 const imageGenerationValidation = [
@@ -89,6 +91,54 @@ router.post('/', imageGenerationValidation, async (req, res) => {
     console.error('Image generation route error:', error);
     res.status(500).json({
       error: 'Internal server error during image generation'
+    });
+  }
+});
+
+/**
+ * POST /api/image/generate-simple
+ * Simple image generation using our built-in service
+ */
+router.post('/generate-simple', async (req, res) => {
+  try {
+    const { prompt, count = 3 } = req.body;
+
+    if (!prompt || prompt.trim().length === 0) {
+      return res.status(400).json({
+        success: false,
+        error: 'Prompt is required'
+      });
+    }
+
+    const result = await imageGen.generateImage(prompt.trim(), {
+      count: Math.min(count, 10)
+    });
+
+    res.json(result);
+  } catch (error) {
+    console.error('Image generation error:', error);
+    res.status(500).json({
+      success: false,
+      error: error.message
+    });
+  }
+});
+
+/**
+ * GET /api/image/stats
+ * Get image generation statistics
+ */
+router.get('/stats', (req, res) => {
+  try {
+    const stats = imageGen.getStats();
+    res.json({
+      success: true,
+      data: stats
+    });
+  } catch (error) {
+    res.status(500).json({
+      success: false,
+      error: error.message
     });
   }
 });

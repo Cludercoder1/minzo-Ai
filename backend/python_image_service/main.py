@@ -2,6 +2,7 @@ try:
     from fastapi import FastAPI, HTTPException
     from pydantic import BaseModel
     from fastapi.middleware.cors import CORSMiddleware
+    from fastapi.responses import FileResponse
     from typing import Optional
     import os
     import io
@@ -9,6 +10,7 @@ try:
     from PIL import Image, ImageDraw, ImageFont
     import requests
     import tempfile
+    from TTS.api import TTS
     DEPENDENCIES_OK = True
 except Exception as e:
     DEPENDENCIES_OK = False
@@ -26,11 +28,28 @@ app.add_middleware(
 
 if DEPENDENCIES_OK:
     class GenerateRequest(BaseModel):
-    prompt: str
-    width: Optional[int] = 1024
-    height: Optional[int] = 1024
-    mode: Optional[str] = 'placeholder'  # 'placeholder' or provider key like 'stability'
-    provider: Optional[str] = None
+        prompt: str
+        width: Optional[int] = 1024
+        height: Optional[int] = 1024
+        mode: Optional[str] = 'placeholder'  # 'placeholder' or provider key like 'stability'
+        provider: Optional[str] = None
+
+    class TTSRequest(BaseModel):
+        text: str
+        language: Optional[str] = "hi"  # Language code (Hindi)
+
+    # Initialize TTS model (downloads on first use)
+    tts_model = None
+    
+    def get_tts_model():
+        global tts_model
+        if tts_model is None:
+            try:
+                tts_model = TTS(model_name="tts_models/hi/css10/vits", gpu=False)
+            except Exception as e:
+                print(f"TTS model initialization error: {e}")
+                tts_model = None
+        return tts_model
 else:
     # Minimal placeholder so import doesn't fail if pydantic is missing
     class GenerateRequest:
@@ -40,6 +59,11 @@ else:
             self.height = kwargs.get('height', 1024)
             self.mode = kwargs.get('mode', 'placeholder')
             self.provider = kwargs.get('provider', None)
+
+    class TTSRequest:
+        def __init__(self, **kwargs):
+            self.text = kwargs.get('text', '')
+            self.language = kwargs.get('language', 'hi')
 
 
 @app.get("/health")
@@ -136,3 +160,82 @@ async def generate_image(req: GenerateRequest):
         return { 'success': True, 'image': 'data:image/png;base64,' + encoded }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post('/tts')
+async def text_to_speech(req: TTSRequest):
+    """Convert text to speech using Tacotron2 model"""
+    if not DEPENDENCIES_OK:
+        raise HTTPException(status_code=503, detail='Missing Python dependencies, install using requirements.txt')
+
+    try:
+        text = req.text.strip()
+        if not text:
+            raise HTTPException(status_code=400, detail='Text cannot be empty')
+
+        # Get TTS model
+        tts = get_tts_model()
+        if tts is None:
+            raise HTTPException(status_code=503, detail='TTS model failed to initialize')
+
+        # Create temporary file for audio
+        with tempfile.NamedTemporaryFile(suffix='.wav', delete=False) as tmp_file:
+            tmp_path = tmp_file.name
+
+        try:
+            # Generate speech
+            tts.tts_to_file(text=text, file_path=tmp_path)
+
+            # Read file and encode to base64
+            with open(tmp_path, 'rb') as audio_file:
+                audio_data = audio_file.read()
+                encoded_audio = base64.b64encode(audio_data).decode('utf-8')
+
+            # Return audio as base64
+            return {
+                'success': True,
+                'audio': 'data:audio/wav;base64,' + encoded_audio,
+                'text': text
+            }
+        finally:
+            # Clean up temp file
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f'TTS generation error: {str(e)}')
+
+
+@app.post('/tts/file')
+async def text_to_speech_file(req: TTSRequest):
+    """Convert text to speech and return as file"""
+    if not DEPENDENCIES_OK:
+        raise HTTPException(status_code=503, detail='Missing Python dependencies, install using requirements.txt')
+
+    try:
+        text = req.text.strip()
+        if not text:
+            raise HTTPException(status_code=400, detail='Text cannot be empty')
+
+        # Get TTS model
+        tts = get_tts_model()
+        if tts is None:
+            raise HTTPException(status_code=503, detail='TTS model failed to initialize')
+
+        # Create temporary file for audio
+        with tempfile.NamedTemporaryFile(suffix='.wav', delete=False) as tmp_file:
+            tmp_path = tmp_file.name
+
+        # Generate speech
+        tts.tts_to_file(text=text, file_path=tmp_path)
+
+        # Return file
+        return FileResponse(tmp_path, media_type='audio/wav', filename='speech.wav')
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f'TTS generation error: {str(e)}')
+

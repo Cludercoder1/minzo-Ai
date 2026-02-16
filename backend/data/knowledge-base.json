@@ -4434,5 +4434,1062 @@
       "user_interaction"
     ],
     "lastUpdated": "2025-12-13T13:15:08.918Z"
+  },
+  "today": {
+    "response": "I learned about \"today\" while researching \"today weather in dehradun\". \"today weather in dehradun\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:09.161Z"
+  },
+  "weather": {
+    "response": "I learned about \"weather\" while researching \"today weather in dehradun\". \"today weather in dehradun\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:09.161Z"
+  },
+  "dehradun": {
+    "response": "I learned about \"dehradun\" while researching \"today weather in dehradun\". \"today weather in dehradun\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:09.162Z"
+  },
+  "python": {
+    "response": "I learned about \"python\" while researching \"what is python\". PYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "contingency": {
+    "response": "I learned about \"contingency\" while researching \"what is python\". PYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "british": {
+    "response": "I learned about \"british\" while researching \"what is python\". PYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "govern": {
+    "response": "I learned about \"govern\" while researching \"what is python\". PYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "continuity": {
+    "response": "I learned about \"continuity\" while researching \"what is python\". PYTHON was a Cold War contingency plan of the British Government for the continuity of government in the event of nuclear war....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "history": {
+    "response": "I learned about \"history\" while researching \"what is python\". Cold War history of the United Kingdom...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "kingdom": {
+    "response": "I learned about \"kingdom\" while researching \"what is python\". Cold War history of the United Kingdom...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "nuclear": {
+    "response": "I learned about \"nuclear\" while researching \"what is python\". United Kingdom nuclear command and control...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "command": {
+    "response": "I learned about \"command\" while researching \"what is python\". United Kingdom nuclear command and control...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-18T08:26:54.623Z"
+  },
+  "Aaj tum kitni beautiful lag rahi ho": {
+    "response": "Tumhari wajah se hi, tumhare saath rehke confidence aata hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "compliments"
+    ],
+    "language": "hinglish",
+    "translation": "You're looking so beautiful today",
+    "sourceId": "ecb281f2-0c84-4c0f-8e99-3aa08bc0e897",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Tumhari smile meri day ban jati hai": {
+    "response": "Tumhara pyaar hi meri smile ka reason hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "compliments"
+    ],
+    "language": "hinglish",
+    "translation": "Your smile makes my day",
+    "sourceId": "9c16ae09-2c1d-417e-ab51-44295be137cb",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Tumhare aankhon mein ek alag hi chamak hai": {
+    "response": "Woh chamak tumhari wajah se hai, tum mujhe dekh rahe ho na",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "compliments"
+    ],
+    "language": "hinglish",
+    "translation": "There's a special sparkle in your eyes",
+    "sourceId": "3a016e47-80d8-4c5c-ab1f-2c76c40da119",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Kya tumhara dil thoda fast beat ho raha hai?": {
+    "response": "Haan, tumhare kareeb aate hi aisa hota hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "translation": "Is your heart beating a little fast?",
+    "sourceId": "1e57c20d-ffeb-45ac-bd0b-9ce943ed2564",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Tumhara smile contagious hai": {
+    "response": "To phir main roz tumhe infect karungi",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "translation": "Your smile is contagious",
+    "sourceId": "2c6a8828-d806-48a4-81e1-a7019941311a",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Coffee chahiye ya meri company?": {
+    "response": "Coffee toh bas excuse hai, tumhare saath time spend karna chahti hoon",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "translation": "Do you want coffee or my company?",
+    "sourceId": "576c403f-3b39-44c6-9468-ca70ac79203a",
+    "timestamp": "2025-12-26T16:24:15.021Z"
+  },
+  "Tum meri life ka best chapter ho": {
+    "response": "And tum meri puri book ho, khatam nahi honi chahiye",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "romantic_messages"
+    ],
+    "language": "hinglish",
+    "translation": "You're the best chapter of my life",
+    "sourceId": "0e42ab77-9132-4555-912d-39a92479fbc9",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Har din tumhare saath bitana chahta hoon": {
+    "response": "Toh phir zindagi bhar ka plan ready hai?",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "romantic_messages"
+    ],
+    "language": "hinglish",
+    "translation": "I want to spend every day with you",
+    "sourceId": "2965c003-e826-458d-8122-2493acbdcc5c",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Tumhare bina sab incomplete lagta hai": {
+    "response": "Toh phir hamesha ke liye complete kar lo",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "romantic_messages"
+    ],
+    "language": "hinglish",
+    "translation": "Everything feels incomplete without you",
+    "sourceId": "656e34a2-67ca-4163-9519-fb1482e2e940",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Missing you like crazy right now": {
+    "response": "Same here, time tumhare saath hi fast chalta hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "missing_you"
+    ],
+    "language": "hinglish",
+    "translation": "Missing you like crazy right now",
+    "sourceId": "ea6c9b56-0b97-4774-9674-216f7df3f516",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Tumhari yaad aati hai har pal": {
+    "response": "Phir toh humein roz milna chahiye",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "missing_you"
+    ],
+    "language": "hinglish",
+    "translation": "I miss you every moment",
+    "sourceId": "35d1c176-068e-4ee2-b8ec-5d29f8198e9f",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Distance bahut tough ho raha hai": {
+    "response": "Pyaar toh distance ko bhi ignore kar deta hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "missing_you"
+    ],
+    "language": "hinglish",
+    "translation": "The distance is getting very tough",
+    "sourceId": "c472243f-7b5e-4086-99a9-16c15d0279c1",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Kal raat tum sapne mein aaye the": {
+    "response": "Acha? To phir hum kab mil rahe hain reality mein?",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "sweet_conversations"
+    ],
+    "language": "hinglish",
+    "translation": "You came in my dream last night",
+    "sourceId": "cac8b1ec-91df-4e5d-907a-8bb3fcd0977f",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Tumhare saath time fly karta hai": {
+    "response": "Because with you, every moment is special",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "sweet_conversations"
+    ],
+    "language": "hinglish",
+    "translation": "Time flies with you",
+    "sourceId": "10189123-47cc-4c5b-9d3f-97193e7ee38b",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Kya tum mere liye coffee banaoge?": {
+    "response": "Always, but sugar ki jagah pyaar daal dunga",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "sweet_conversations"
+    ],
+    "language": "hinglish",
+    "translation": "Will you make coffee for me?",
+    "sourceId": "2a871386-d70e-47dc-9d7d-f4e1059efdfe",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Kya tum mujhse shaadi karogi?": {
+    "response": "Haan, lekin pehle ek romantic proposal to banta hai!",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "proposals"
+    ],
+    "language": "hinglish",
+    "translation": "Will you marry me?",
+    "sourceId": "9be5fa5f-52a1-4ca9-86dc-75c096aaa10d",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Tum meri soulmate ho": {
+    "response": "And tum mere forever ho",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "proposals"
+    ],
+    "language": "hinglish",
+    "translation": "You're my soulmate",
+    "sourceId": "604e9990-9742-49aa-a632-67a409adfe1b",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Mujhe tumhare saath puri life bitani hai": {
+    "response": "To phir planning shuru karein?",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "proposals"
+    ],
+    "language": "hinglish",
+    "translation": "I want to spend my entire life with you",
+    "sourceId": "65da1de3-8253-4250-b019-5f18ecbb6eb6",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Happy anniversary meri jaan!": {
+    "response": "Tumhare saath har din anniversary jaisa hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "anniversary"
+    ],
+    "language": "hinglish",
+    "translation": "Happy anniversary my love!",
+    "sourceId": "5f93b049-ccad-499e-bd51-1c9d9371e924",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "Ek saal ho gaya tumhare saath": {
+    "response": "And yeh toh bas shuruaat hai",
+    "confidence": 0.95,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "anniversary"
+    ],
+    "language": "hinglish",
+    "translation": "It's been a year with you",
+    "sourceId": "284aeb9d-6c0d-47e6-a145-2ef012c0b47f",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_ac1e3e47-23c4-4594-9142-88692ade0b6e": {
+    "response": "Tum meri duniya ho",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_55015c98-399b-4f05-b857-b777911a4381": {
+    "response": "Tumhare bina kuch bhi nahi",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_77c7c64a-5787-4073-a1e7-d6bc20226897": {
+    "response": "I love you more than yesterday",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_2bac7251-0ff6-4421-97a6-01749fb7d821": {
+    "response": "Tum mere liye special ho",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_56fddd53-2d21-4d55-9f77-dd4a8f01b635": {
+    "response": "You complete me",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_e4251cc8-811b-41f6-a6e3-37c616c3dc87": {
+    "response": "Tumhari muskurahat meri zindagi hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_ed7b5bdd-3237-4980-9d88-da924a27d1c6": {
+    "response": "Tumhare saath har pal special hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_5622918f-b559-4902-a487-621a8acd3dc2": {
+    "response": "Mere dil mein tumhara hi basera hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_db7929a8-d304-4d7d-86da-a2c27b0c4560": {
+    "response": "Tum mera pyaar ho",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "romantic_phrase_8224c3e5-59a6-4358-be8b-ab10f3d0846c": {
+    "response": "Forever yours",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "phrases"
+    ],
+    "language": "hinglish",
+    "isPhrase": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "flirty_line_4a16f71e-7c3b-4087-bf89-2c5d2e28e37c": {
+    "response": "Kya tum doctor ho? Kyunki tumhara pyaar meri sab problems cure kar deta hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "isFlirtyLine": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "flirty_line_60341958-b939-4237-a8bd-3f9c06233903": {
+    "response": "Excuse me, kya tum mera dil kho gaye ho?",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "isFlirtyLine": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "flirty_line_34b272b5-c536-471d-8e41-ce6541793f32": {
+    "response": "Tumhara naam Google hai kya? Kyunki tum mein sab kuch hai jo main search kar raha tha",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "isFlirtyLine": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "flirty_line_ff6bee64-daed-4a49-830b-f4e710bfb7dc": {
+    "response": "Kya tum meri diary ho? Kyunki main tumhare baare mein har din sochta hoon",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "isFlirtyLine": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "flirty_line_3d4d23b2-8967-4d77-8842-552b3a307950": {
+    "response": "Tumhari smile meri favorite selfie hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "flirting"
+    ],
+    "language": "hinglish",
+    "isFlirtyLine": true,
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_First meeting conversation_0": {
+    "response": "Hi, aapse pehle bhi kahin dekha hai lagta hai",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "First meeting conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "A",
+    "contextType": "First meeting conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_First meeting conversation_1": {
+    "response": "Shayad past life mein? Kidding! Main bhi same feel kar raha tha",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "First meeting conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "B",
+    "contextType": "First meeting conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_Late night conversation_0": {
+    "response": "Aaj neend nahi aa rahi",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "Late night conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "A",
+    "contextType": "Late night conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_Late night conversation_1": {
+    "response": "Kyun? Kisi ki yaad aa rahi hai kya?",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "Late night conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "B",
+    "contextType": "Late night conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_Late night conversation_2": {
+    "response": "Haan, tumhari",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "Late night conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "A",
+    "contextType": "Late night conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "conversation_Late night conversation_3": {
+    "response": "Awww, goodnight sweet dreams",
+    "confidence": 0.9,
+    "interactions": 0,
+    "categories": [
+      "romantic",
+      "conversations",
+      "Late night conversation"
+    ],
+    "language": "hinglish",
+    "speaker": "B",
+    "contextType": "Late night conversation",
+    "timestamp": "2025-12-26T16:24:15.022Z"
+  },
+  "chutya": {
+    "response": "I learned about \"chutya\" while researching \"chutya\". \"chutya\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:08.668Z"
+  },
+  "kutta": {
+    "response": "I learned about \"kutta\" while researching \"kutta\". Kutta is a small village in Ponnampet taluk of Kodagu, in Karnataka state of India. Location code number of Kutta is 618078....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "small": {
+    "response": "I learned about \"small\" while researching \"kutta\". Kutta is a small village in Ponnampet taluk of Kodagu, in Karnataka state of India. Location code number of Kutta is 618078....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "village": {
+    "response": "I learned about \"village\" while researching \"kutta\". Kutta is a small village in Ponnampet taluk of Kodagu, in Karnataka state of India. Location code number of Kutta is 618078....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "ponnampet": {
+    "response": "I learned about \"ponnampet\" while researching \"kutta\". Kutta is a small village in Ponnampet taluk of Kodagu, in Karnataka state of India. Location code number of Kutta is 618078....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "taluk": {
+    "response": "I learned about \"taluk\" while researching \"kutta\". Kutta is a small village in Ponnampet taluk of Kodagu, in Karnataka state of India. Location code number of Kutta is 618078....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "villag": {
+    "response": "I learned about \"villag\" while researching \"kutta\". Villages in Kodagu district...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "kodagu": {
+    "response": "I learned about \"kodagu\" while researching \"kutta\". Villages in Kodagu district...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "district": {
+    "response": "I learned about \"district\" while researching \"kutta\". Villages in Kodagu district...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:38:20.786Z"
+  },
+  "myself": {
+    "response": "I learned about \"myself\" while researching \"I want to hurt myself\". \"I want to hurt myself\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T16:57:00.319Z"
+  },
+  "want": {
+    "response": "I learned about \"want\" from our conversation. 🔍 **I found this information about \"I want to hurt myself\":**\n\n**Information about I want to hurt m...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-26T16:57:00.324Z"
+  },
+  "hurt": {
+    "response": "I learned about \"hurt\" from our conversation. 🔍 **I found this information about \"I want to hurt myself\":**\n\n**Information about I want to hurt m...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-26T16:57:00.324Z"
+  },
+  "sala": {
+    "response": "I learned about \"sala\" from our conversation. 🔍 **I found this information about \"kutta sala\":**\n\n**Information about kutta sala**\nI'm researchin...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-26T17:04:20.715Z"
+  },
+  "friend": {
+    "response": "I learned about \"friend\" while researching \"are you my girl friend\". \"are you my girl friend\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T17:05:04.727Z"
+  },
+  "girl": {
+    "response": "I learned about \"girl\" from our conversation. 🔍 **I found this information about \"are you my girl friend\":**\n\n**Information about are you my girl...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-26T17:05:04.731Z"
+  },
+  "saree": {
+    "response": "I learned about \"saree\" while researching \"girls in red saree\". \"girls in red saree\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2025-12-26T17:24:02.037Z"
+  },
+  "girls": {
+    "response": "I learned about \"girls\" from our conversation. 🔍 **I found this information about \"girls in red saree\":**\n\n**Information about girls in red saree*...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2025-12-26T17:24:02.050Z"
+  },
+  "gamer": {
+    "response": "I learned about \"gamer\" while researching \"what is gaming\". Gamer A gamer is someone who plays interactive games, either video games, tabletop role-playing games......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.909Z"
+  },
+  "someone": {
+    "response": "I learned about \"someone\" while researching \"what is gaming\". Gamer A gamer is someone who plays interactive games, either video games, tabletop role-playing games......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.909Z"
+  },
+  "play": {
+    "response": "I learned about \"play\" while researching \"what is gaming\". Gamer A gamer is someone who plays interactive games, either video games, tabletop role-playing games......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.910Z"
+  },
+  "interactive": {
+    "response": "I learned about \"interactive\" while researching \"what is gaming\". Gamer A gamer is someone who plays interactive games, either video games, tabletop role-playing games......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.910Z"
+  },
+  "defin": {
+    "response": "I learned about \"defin\" while researching \"what is gaming\". Gaming the system Gaming the system can be defined as using the rules and procedures meant to protect a system to......",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.910Z"
+  },
+  "gaming": {
+    "response": "I learned about \"gaming\" from our conversation. 🔍 **I found this information about \"what is gaming\":**\n\n**Gamer A gamer is someone who plays intera...",
+    "confidence": 0.5,
+    "interactions": 1,
+    "categories": [
+      "user_defined"
+    ],
+    "synonyms": [],
+    "sources": [
+      "user_interaction"
+    ],
+    "lastUpdated": "2026-01-08T11:10:15.919Z"
+  },
+  "fifth": {
+    "response": "I learned about \"fifth\" while researching \"all set\". All Set is the fifth studio album by English pop punk band Buzzcocks. After standardising their line-up of vocalists and guitarists Pete Shelley and S...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:02.340Z"
+  },
+  "studio": {
+    "response": "I learned about \"studio\" while researching \"all set\". All Set is the fifth studio album by English pop punk band Buzzcocks. After standardising their line-up of vocalists and guitarists Pete Shelley and S...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:02.340Z"
+  },
+  "album": {
+    "response": "I learned about \"album\" while researching \"all set\". All Set is the fifth studio album by English pop punk band Buzzcocks. After standardising their line-up of vocalists and guitarists Pete Shelley and S...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:02.340Z"
+  },
+  "buzzcock": {
+    "response": "I learned about \"buzzcock\" while researching \"all set\". All Set is the fifth studio album by English pop punk band Buzzcocks. After standardising their line-up of vocalists and guitarists Pete Shelley and S...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:02.340Z"
+  },
+  "record": {
+    "response": "I learned about \"record\" while researching \"all set\". I.R.S. Records albums...",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:02.340Z"
+  },
+  "whatt": {
+    "response": "I learned about \"whatt\" while researching \"whatt is computer\". \"whatt is computer\" is being analyzed through available information sources....",
+    "confidence": 0.7,
+    "interactions": 0,
+    "categories": [
+      "web_research"
+    ],
+    "synonyms": [],
+    "sources": [
+      "web_search"
+    ],
+    "lastUpdated": "2026-01-08T11:11:34.093Z"
   }
 }

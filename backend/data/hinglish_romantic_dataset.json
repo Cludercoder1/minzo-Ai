@@ -1,0 +1,188 @@
+{
+  "categories": [
+    "compliments",
+    "flirting",
+    "romantic_messages",
+    "missing_you",
+    "sweet_conversations",
+    "proposals",
+    "anniversary"
+  ],
+  "dataset": [
+    {
+      "input": "Aaj tum kitni beautiful lag rahi ho",
+      "response": "Tumhari wajah se hi, tumhare saath rehke confidence aata hai",
+      "translation": "You're looking so beautiful today",
+      "category": "compliments"
+    },
+    {
+      "input": "Tumhari smile meri day ban jati hai",
+      "response": "Tumhara pyaar hi meri smile ka reason hai",
+      "translation": "Your smile makes my day",
+      "category": "compliments"
+    },
+    {
+      "input": "Tumhare aankhon mein ek alag hi chamak hai",
+      "response": "Woh chamak tumhari wajah se hai, tum mujhe dekh rahe ho na",
+      "translation": "There's a special sparkle in your eyes",
+      "category": "compliments"
+    },
+    {
+      "input": "Kya tumhara dil thoda fast beat ho raha hai?",
+      "response": "Haan, tumhare kareeb aate hi aisa hota hai",
+      "translation": "Is your heart beating a little fast?",
+      "category": "flirting"
+    },
+    {
+      "input": "Tumhara smile contagious hai",
+      "response": "To phir main roz tumhe infect karungi",
+      "translation": "Your smile is contagious",
+      "category": "flirting"
+    },
+    {
+      "input": "Coffee chahiye ya meri company?",
+      "response": "Coffee toh bas excuse hai, tumhare saath time spend karna chahti hoon",
+      "translation": "Do you want coffee or my company?",
+      "category": "flirting"
+    },
+    {
+      "input": "Tum meri life ka best chapter ho",
+      "response": "And tum meri puri book ho, khatam nahi honi chahiye",
+      "translation": "You're the best chapter of my life",
+      "category": "romantic_messages"
+    },
+    {
+      "input": "Har din tumhare saath bitana chahta hoon",
+      "response": "Toh phir zindagi bhar ka plan ready hai?",
+      "translation": "I want to spend every day with you",
+      "category": "romantic_messages"
+    },
+    {
+      "input": "Tumhare bina sab incomplete lagta hai",
+      "response": "Toh phir hamesha ke liye complete kar lo",
+      "translation": "Everything feels incomplete without you",
+      "category": "romantic_messages"
+    },
+    {
+      "input": "Missing you like crazy right now",
+      "response": "Same here, time tumhare saath hi fast chalta hai",
+      "translation": "Missing you like crazy right now",
+      "category": "missing_you"
+    },
+    {
+      "input": "Tumhari yaad aati hai har pal",
+      "response": "Phir toh humein roz milna chahiye",
+      "translation": "I miss you every moment",
+      "category": "missing_you"
+    },
+    {
+      "input": "Distance bahut tough ho raha hai",
+      "response": "Pyaar toh distance ko bhi ignore kar deta hai",
+      "translation": "The distance is getting very tough",
+      "category": "missing_you"
+    },
+    {
+      "input": "Kal raat tum sapne mein aaye the",
+      "response": "Acha? To phir hum kab mil rahe hain reality mein?",
+      "translation": "You came in my dream last night",
+      "category": "sweet_conversations"
+    },
+    {
+      "input": "Tumhare saath time fly karta hai",
+      "response": "Because with you, every moment is special",
+      "translation": "Time flies with you",
+      "category": "sweet_conversations"
+    },
+    {
+      "input": "Kya tum mere liye coffee banaoge?",
+      "response": "Always, but sugar ki jagah pyaar daal dunga",
+      "translation": "Will you make coffee for me?",
+      "category": "sweet_conversations"
+    },
+    {
+      "input": "Kya tum mujhse shaadi karogi?",
+      "response": "Haan, lekin pehle ek romantic proposal to banta hai!",
+      "translation": "Will you marry me?",
+      "category": "proposals"
+    },
+    {
+      "input": "Tum meri soulmate ho",
+      "response": "And tum mere forever ho",
+      "translation": "You're my soulmate",
+      "category": "proposals"
+    },
+    {
+      "input": "Mujhe tumhare saath puri life bitani hai",
+      "response": "To phir planning shuru karein?",
+      "translation": "I want to spend my entire life with you",
+      "category": "proposals"
+    },
+    {
+      "input": "Happy anniversary meri jaan!",
+      "response": "Tumhare saath har din anniversary jaisa hai",
+      "translation": "Happy anniversary my love!",
+      "category": "anniversary"
+    },
+    {
+      "input": "Ek saal ho gaya tumhare saath",
+      "response": "And yeh toh bas shuruaat hai",
+      "translation": "It's been a year with you",
+      "category": "anniversary"
+    }
+  ],
+  "conversation_patterns": [
+    {
+      "context": "First meeting conversation",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Hi, aapse pehle bhi kahin dekha hai lagta hai"
+        },
+        {
+          "speaker": "B",
+          "text": "Shayad past life mein? Kidding! Main bhi same feel kar raha tha"
+        }
+      ]
+    },
+    {
+      "context": "Late night conversation",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Aaj neend nahi aa rahi"
+        },
+        {
+          "speaker": "B",
+          "text": "Kyun? Kisi ki yaad aa rahi hai kya?"
+        },
+        {
+          "speaker": "A",
+          "text": "Haan, tumhari"
+        },
+        {
+          "speaker": "B",
+          "text": "Awww, goodnight sweet dreams"
+        }
+      ]
+    }
+  ],
+  "romantic_phrases": [
+    "Tum meri duniya ho",
+    "Tumhare bina kuch bhi nahi",
+    "I love you more than yesterday",
+    "Tum mere liye special ho",
+    "You complete me",
+    "Tumhari muskurahat meri zindagi hai",
+    "Tumhare saath har pal special hai",
+    "Mere dil mein tumhara hi basera hai",
+    "Tum mera pyaar ho",
+    "Forever yours"
+  ],
+  "flirty_lines": [
+    "Kya tum doctor ho? Kyunki tumhara pyaar meri sab problems cure kar deta hai",
+    "Excuse me, kya tum mera dil kho gaye ho?",
+    "Tumhara naam Google hai kya? Kyunki tum mein sab kuch hai jo main search kar raha tha",
+    "Kya tum meri diary ho? Kyunki main tumhare baare mein har din sochta hoon",
+    "Tumhari smile meri favorite selfie hai"
+  ]
+}

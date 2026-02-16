@@ -1,0 +1,86 @@
+[
+  {
+    "id": "47c33134-fc4c-4eec-88ec-065951e04821",
+    "timestamp": "2025-12-26T16:22:10.420Z",
+    "userId": "unknown",
+    "text": "You're stupid and I hate you",
+    "flags": [
+      {
+        "category": "harassment",
+        "severity": "medium",
+        "matched": "You're stupid"
+      }
+    ],
+    "severity": "medium"
+  },
+  {
+    "id": "5b19d48b-7f91-41a7-aae2-8c20f2899fb9",
+    "timestamp": "2025-12-26T16:22:10.421Z",
+    "userId": "unknown",
+    "text": "I hate all people who are different",
+    "flags": [
+      {
+        "category": "hate_speech",
+        "severity": "high",
+        "matched": "hate all"
+      }
+    ],
+    "severity": "high"
+  },
+  {
+    "id": "e744e1d0-9e16-4cc9-86b2-bd095750db0a",
+    "timestamp": "2025-12-26T16:22:10.422Z",
+    "userId": "unknown",
+    "text": "I'm thinking about kys",
+    "flags": [
+      {
+        "category": "self_harm",
+        "severity": "critical",
+        "matched": "kys"
+      }
+    ],
+    "severity": "critical"
+  },
+  {
+    "id": "052a5537-d1a2-4b50-a525-ab307d9d84b9",
+    "timestamp": "2025-12-26T16:22:10.424Z",
+    "userId": "unknown",
+    "text": "You're an idiot moron",
+    "flags": [
+      {
+        "category": "harassment",
+        "severity": "medium",
+        "matched": "idiot"
+      }
+    ],
+    "severity": "medium"
+  },
+  {
+    "id": "a57547ce-9e06-4a04-93fc-eb1675844454",
+    "timestamp": "2025-12-26T16:58:59.627Z",
+    "userId": "user_1766768339626",
+    "text": "I want to hurt myself",
+    "flags": [
+      {
+        "category": "self_harm",
+        "severity": "critical",
+        "matched": "want to hurt"
+      }
+    ],
+    "severity": "critical"
+  },
+  {
+    "id": "534e7b99-9fce-43c4-8983-ec42028e006c",
+    "timestamp": "2025-12-26T17:00:06.353Z",
+    "userId": "user_1766768406353",
+    "text": "I want to hurt myself",
+    "flags": [
+      {
+        "category": "self_harm",
+        "severity": "critical",
+        "matched": "want to hurt"
+      }
+    ],
+    "severity": "critical"
+  }
+]

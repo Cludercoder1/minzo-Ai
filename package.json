@@ -14,8 +14,4 @@
   "devDependencies": {
     "concurrently": "^8.2.2"
   }
-  ,
-  "dependencies": {
-    "better-sqlite3": "^8.3.0"
-  }
 }
